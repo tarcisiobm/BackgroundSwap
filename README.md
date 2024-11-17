@@ -19,7 +19,7 @@
 - JavaScript 
 
 ## Acesse o projeto
-Você pode executar o Retro Game Explorer diretamente pelos links do: [github]() | [vercel]() ou  fazer o clone deste repositório para para executar a aplicação localmente em sua máquina.
+Você pode executar o Retro Game Explorer diretamente pelos links do: [github](https://tarcisiobm.github.io/BackgroundSwap/) | [vercel](https://background-swap.vercel.app) ou  fazer o clone deste repositório para para executar a aplicação localmente em sua máquina.
 
 ## Como Rodar Localmente
 
