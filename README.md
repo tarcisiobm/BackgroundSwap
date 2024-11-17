@@ -8,8 +8,9 @@
 
 ## Funcionalidades
 
-- 🖼️ Remove automaticamente o fundo de qualquer imagem carregada.
+- 🖼️ Remove automaticamente o fundo de qualquer imagem carregada, utilizando a API do **RemoveBG**.
 - 🎨 Substitui o fundo removido por um background oficial da Rubeus.
+- 🔁 Alterna entre 12 chaves da API automaticamente para evitar interrupções quando o limite de tokens de uma chave é atingido. Com isso, é possível processar até 600 tokens atualizados mensalmente antes de todas as chaves serem esgotadas.
 - 📂 Permite o upload de arquivos diretamente pelo navegador.
 - 💾 Download da imagem processada com o novo fundo.
 
