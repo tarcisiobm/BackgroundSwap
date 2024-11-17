@@ -1,7 +1,7 @@
 <h1 align="center">Troca de Fundo Rubeus</h1>
 
 <p align="center">
-  <img alt="" src="preview.png" width="100%">
+  <img alt="" src="preview.gif" width="70%">
 </p>
 
 <p>A aplicação de Troca de Fundo Rubeus foi desenvolvida para ajudar novos membros da Rubeus a enviarem sua foto com um fundo personalizado contendo a logo da empresa. O projeto permite que o fundo original da imagem seja removido e substituído automaticamente por um background oficial da Rubeus, garantindo uma identidade visual padronizada e profissional. Essa ferramenta foi desenvolvida visando facilitar a integração e melhorar a experiência de novos colaboradores. </p>
